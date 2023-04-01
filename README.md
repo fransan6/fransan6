@@ -30,6 +30,18 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Aft
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fransan6&hide=stars,issues&show_icons=true&theme=dracula" />
 </a>
 
+---
+
+### :leaves: Haiku for you
+
+around the willow  
+a floating world  
+red blossoms  
+
+柳は縁花は紅のうき世かな
+
+--Kobayashi Issa, 1822  
+
 <!--
 [![fransan6's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransan6&hide=stars,issues&show_icons=true&theme=dracula)](https://github.com/fransan6/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan6&hide_progress=true)](https://github.com/fransan6/github-readme-stats)
