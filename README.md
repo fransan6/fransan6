@@ -16,7 +16,7 @@ I'm a recent graduate of Le Wagon's full-stack web development bootcamp and appa
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
 Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **RSpec** and **Python**.
 
-### :chart_with_upwards_trend:	Stats:
+### :chart_with_upwards_trend:	Stats
 <a href="https://github.com/fransan6/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransan6&hide_progress=true" />
 </a>
