@@ -41,6 +41,7 @@ red blossoms
 柳は縁花は紅のうき世かな
 
 --Kobayashi Issa, 1822  
+<sub><sup>Translated by David G. Lanoue</sup></sub>
 
 <!--
 [![fransan6's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransan6&hide=stars,issues&show_icons=true&theme=dracula)](https://github.com/fransan6/github-readme-stats)
