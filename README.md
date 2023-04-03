@@ -3,7 +3,7 @@
 </a>
 
 ## Hi, I'm Francesca 👋
-I'm a recent graduate of Le Wagon's full-stack web development bootcamp and apparently am now obsessed with, and love, all things coding (handy, given the time and money invested). I'm keen to both solidify my newly-acquired skills, but also learn more and keep on furthering my professional development. I bring both technical and soft skills and, when necessary, plenty of snacks.
+I'm a recent graduate of Le Wagon's full-stack web development bootcamp and apparently am now obsessed with, and love, all things coding. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both technical and soft skills and, when necessary, plenty of snacks.
 
 ---
 
