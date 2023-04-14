@@ -18,7 +18,7 @@ I'm a recent graduate of Le Wagon's full-stack web development bootcamp and appa
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **RSpec** and **Python**.
+Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **RSpec** and **Python**. Also, having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
 
