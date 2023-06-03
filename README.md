@@ -3,7 +3,7 @@
 </a>
 
 ## Hi, I'm Francesca 👋
-I'm a recent graduate of Le Wagon's full-stack web development bootcamp and apparently am now obsessed with, and love, all things coding. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both technical and soft skills and, when necessary, plenty of snacks.
+I'm a recent full-stack development graduate and apparently am now obsessed with, and love, all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
 ---
 
@@ -12,12 +12,13 @@ I'm a recent graduate of Le Wagon's full-stack web development bootcamp and appa
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **RSpec** and **Python**. Also, having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
+Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. Also having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
 
-### :fire: Project
-- [What Can I Eat?](http://www.whatcanieat.world/) Final Le Wagon project. Rails web app to help users not waste food they already have and supply recipes based on their ingredients. Built models; controllers; views; SQL schema; friendship, review, bookmark and filtering functionality; AJAX to improve a user's experience, to list a few. Also took part in frequent stand-ups, utilised Trello and worked both independently and in pair-programming. [GitHub repository](https://github.com/alexagodzilla/what-can-i-eat).
+### :fire: Projects
+- [What Can I Eat?](http://www.whatcanieat.world/) Final Le Wagon group project. Rails web app to supply recipes based on a user's ingredients. Set up models, controllers, views and schema; built and aided with filtering, review and bookmark functionality; created friendships, where users could send invites, and accept or reject others' requests; implemented AJAX and an API. Also led and participated in frequent stand-ups, created and utilised Trello and worked both independently and in pair-programming. [GitHub repository](https://github.com/alexagodzilla/what-can-i-eat).
+- [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First Le Wagon group project, setting up amateur musicians with venues. Worked on set-up of MVC framework and schema, and helped integration of Mapbox and Google APIs. Conducted stand-ups and led the use of Trello.
 
 ---
 
@@ -31,7 +32,7 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Aft
 
 ---
 
-### :leaves: Haiku for you
+### :leaves: Haiku
 
 around the willow  
 a floating world  
