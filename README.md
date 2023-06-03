@@ -5,20 +5,21 @@
 ## Hi, I'm Francesca 👋
 I'm a recent full-stack development graduate and apparently am now obsessed with, and love, all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
----
-
-### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,bootstrap,sass,git,github,figma,heroku,vscode)](https://skillicons.dev)
-
-### :woman_teacher:	Learning
-<!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. Also having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
-
+![](rosa-computer.gif)
 ---
 
 ### :fire: Projects
 - [What Can I Eat?](http://www.whatcanieat.world/) Final Le Wagon group project. Rails web app to supply recipes based on a user's ingredients. Set up models, controllers, views and schema; built and aided with filtering, review and bookmark functionality; created friendships, where users could send invites, and accept or reject others' requests; implemented AJAX and an API. Also led and participated in frequent stand-ups, created and utilised Trello and worked both independently and in pair-programming. [GitHub repository](https://github.com/alexagodzilla/what-can-i-eat).
 - [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First Le Wagon group project, setting up amateur musicians with venues. Worked on set-up of MVC framework and schema, and helped integration of Mapbox and Google APIs. Conducted stand-ups and led the use of Trello.
+
+---
+
+### :hammer_and_wrench: Skills
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,git,github,bootstrap,figma,heroku)](https://skillicons.dev)
+
+### :woman_teacher:	Learning
+<!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
+Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. Also having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
 
