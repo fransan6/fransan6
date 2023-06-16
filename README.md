@@ -15,7 +15,7 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 ---
 
 ### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,git,github,bootstrap,figma,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,git,github,bootstrap)](https://skillicons.dev)
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
