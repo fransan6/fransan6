@@ -3,9 +3,10 @@
 </a>
 
 ## Hi, I'm Francesca 👋
-I'm a recent full-stack development graduate and apparently am now obsessed with, and love, all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
+I'm a recent full-stack development graduate and apparently am now obsessed with all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
 ![](rosa-computer.gif)
+
 ---
 
 ### :fire: Projects
@@ -15,14 +16,14 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 ---
 
 ### :hammer_and_wrench: Skills
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,git,github,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,bootstrap,git,github)](https://skillicons.dev)
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
 Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. Also having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
-
+<!--
 ### :chart_with_upwards_trend:	Stats
 <a href="https://github.com/fransan6/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransan6&hide_progress=true" />
@@ -32,7 +33,7 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Aft
 </a>
 
 ---
-
+-->
 ### :leaves: Haiku
 
 around the willow  
