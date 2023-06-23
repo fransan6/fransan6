@@ -18,6 +18,9 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 
 ### :hammer_and_wrench: Skills
 [![My Skills](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,bootstrap,git,github)](https://skillicons.dev)
+<!-- for future icons use: <img style="height: 3em;" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" /> 
+from https://github.com/devicons/devicon
+-->
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
