@@ -5,7 +5,8 @@
 ## Hi, I'm Francesca 👋
 I'm a recent full-stack development graduate and apparently am now obsessed with all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
-![](rosa-computer.gif)
+<!-- ![](rosa-computer.gif) -->
+<img src="rosa-computer.gif" style="height: 12em;" />
 
 ---
 
@@ -20,7 +21,7 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. Also having fun with Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
+Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Afterwards, **React**. I'm also having fun with **Ruby** on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
 <!--
