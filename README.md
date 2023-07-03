@@ -35,6 +35,12 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Aft
 
 ---
 -->
+<!--
+To add once I fully start Pro Git, as not fluid at the moment
+### :books: Reading
+Currently reading: *Pro Git* by Scott Chacon and Ben Straub<br>
+Recently read: *If it's Smart, it's Vulnerable* by Mikko Hypponen
+-->
 ### :leaves: Haiku
 
 around the willow  
