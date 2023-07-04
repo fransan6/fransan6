@@ -36,26 +36,30 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). Aft
 ---
 -->
 
-### :books: Reading
-Currently reading - *Pro Git* by Scott Chacon and Ben Straub<br>
-Recently read - *If it's Smart, it's Vulnerable* by Mikko Hypponen
+<details>
+<summary><b>:books: (Tech) reading</b></summary>
+<br>
+Currently reading - <i>Pro Git</i> by Scott Chacon and Ben Straub<br>
+Recently read - <i>If it's Smart, it's Vulnerable</i> by Mikko Hypponen
+</details>
 
-### :leaves: Haiku
-
-around the willow  
-a floating world  
-red blossoms  
+<details>
+<summary><b>:leaves: Haiku</b></summary>
+<br>
+around the willow<br>
+a floating world<br>
+red blossoms<br>
 
 柳は縁花は紅のうき世かな
 
 --Kobayashi Issa, 1822  
 <sub><sup>Translated by David G. Lanoue</sup></sub>
+</details>
 
 <!--
 [![fransan6's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransan6&hide=stars,issues&show_icons=true&theme=dracula)](https://github.com/fransan6/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan6&hide_progress=true)](https://github.com/fransan6/github-readme-stats)
 -->
-
 
 <!--
 Here are some ideas to get you started:
