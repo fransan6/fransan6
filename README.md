@@ -1,6 +1,9 @@
 <a href="https://www.linkedin.com/in/fsandford/">
   <img src="https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
 </a>
+<a href="mailto:fransan6@proton.me">
+  <img src="https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge" alt="Email address badge" />
+</a>
 
 ## Hi, I'm Francesca 👋
 I'm a recent full-stack development graduate and apparently am now obsessed with all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
