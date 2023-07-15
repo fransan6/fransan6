@@ -24,7 +24,7 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Main focus on **React**. I'm also having fun with **Ruby** on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
+Honing my JavaScript language skills and starting **React**. I'm also having fun with **Ruby** on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
 
 ---
 <!--
