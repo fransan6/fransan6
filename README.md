@@ -20,11 +20,13 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 ---
 
 ### :hammer_and_wrench: Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="height: 3em;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" style="height: 3em;" /> ![My Skills](https://skillicons.dev/icons?i=js,postgresql,html,css,sass,bootstrap,git)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="height: 3em;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" style="height: 3em;" /> ![Skills icons](https://skillicons.dev/icons?i=js,postgresql,html,css,sass,bootstrap,git)
 
 ### :woman_teacher:	Learning
 <!-- [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) -->
-Honing my JavaScript language skills and starting **React**. I'm also having fun with **Ruby** on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro"/>
+![Skills icons](https://skillicons.dev/icons?i=react,nodejs)<br />
+<p>Primary focus is on <b>React</b> with a little time to explore the fundamentals of <b>Node.js</b>. Polishing my JavaScript skills within these.<br />
+Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro" /></p>
 
 ---
 <!--
@@ -40,23 +42,25 @@ Consolidating **JavaScript** with [Javascript30](https://javascript30.com/).
 -->
 
 <details>
-<summary><b>:books: Tech reading</b></summary>
-<br>
-Currently reading - <i>Pro Git</i> by Scott Chacon and Ben Straub (a light summer read)<br>
-Recently read - <i>If it's Smart, it's Vulnerable</i> by Mikko Hypponen
+  <summary>
+    <b>:books: Tech reading</b>
+  </summary><br />
+  Currently reading - <i>Pro Git</i> by Scott Chacon and Ben Straub (a light summer read ☀️).<br />
+  Recently read - <i>If it's Smart, it's Vulnerable</i> by Mikko Hypponen.
 </details>
 
 <details>
-<summary><b>:leaves: Haiku</b></summary>
-<br>
-around the willow<br>
-a floating world<br>
-red blossoms<br>
-
-柳は縁花は紅のうき世かな
-
---Kobayashi Issa, 1822  
-<sub><sup>Translated by David G. Lanoue</sup></sub>
+  <summary>
+    <b>:leaves: Haiku</b>
+  </summary><br />
+  around the willow<br />
+  a floating world<br />
+  red blossoms<br />
+  
+  柳は縁花は紅のうき世かな
+  
+  --Kobayashi Issa, 1822  
+  <sub><sup>Translated by David G. Lanoue</sup></sub>
 </details>
 
 <!--
