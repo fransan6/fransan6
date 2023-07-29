@@ -1,4 +1,3 @@
-
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fsandford/)
 [![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:fransan6@proton.me)
 
@@ -12,7 +11,7 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 
 ### :fire: Projects
 - [What Can I Eat?](http://www.whatcanieat.world/) Final Le Wagon group project. Rails web app to supply recipes based on a user's ingredients. Set up models, controllers, views and schema; built and aided with filtering, review and bookmark functionality; created friendships, where users could send invites, and accept or reject others' requests; implemented AJAX and an API. Also led and participated in frequent stand-ups, created and utilised Trello and worked both independently and in pair-programming. [Repository](https://github.com/alexagodzilla/what-can-i-eat) | [(Insights -> Contributions)](https://github.com/alexagodzilla/what-can-i-eat/graphs/contributors)
-- [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First Le Wagon group project, setting up amateur musicians with venues. Worked on setup of MVC framework and schema, and helped integration of Mapbox and Google APIS. Conducted stand-ups and led the use of Trello. [(Insights -> Contributions)](https://github.com/alexagodzilla/venues-pay-and-play/graphs/contributors)
+- [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First Le Wagon group project, setting up amateur musicians with venues. Worked on setup of MVC framework and schema, and helped integration of Mapbox and Google APIs. Conducted stand-ups and led the use of Trello. [(Insights -> Contributions)](https://github.com/alexagodzilla/venues-pay-and-play/graphs/contributors)
 
 ---
 
