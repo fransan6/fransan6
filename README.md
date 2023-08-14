@@ -1,7 +1,7 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fsandford/)
 [![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:fransan6@proton.me)
 
-## Hi, I'm Francesca 👋
+## Hi 👋
 I'm a recent full-stack development graduate and apparently am now obsessed with all things programming. I'm keen to solidify my newly-acquired skills but also learn more and keep on furthering my professional development. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
 <img src="rosa-computer.gif" style="height: 12em;" alt="Gif of woman hitting a computer monitor" /> 
@@ -64,12 +64,9 @@ Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro
 [![fransan6's GitHub stats](https://github-readme-stats.vercel.app/api?username=fransan6&hide=stars,issues&show_icons=true&theme=dracula)](https://github.com/fransan6/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fransan6&hide_progress=true)](https://github.com/fransan6/github-readme-stats)
 
-## PUBLICISE WHEN IS THE CASE
-Consolidating **JavaScript** with [Javascript30](https://javascript30.com/). 
-
 PREVIOUS RUBY AND RAILS ICONS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" style="height: 3em;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" style="height: 3em;" /> 
----
+
 ## PREVIOUS BADGES
 <a href="https://www.linkedin.com/in/fsandford/">
   <img src="https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
