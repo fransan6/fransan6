@@ -31,8 +31,8 @@ Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro
   <summary>
     <b>:books: Tech reading</b>
   </summary><br />
-  Currently reading - <i>Chip War</i> by Chris Miller and, slowly but surely, <i>Pro Git</i> by Scott Chacon and Ben Straub (for a light summer read ☀️).<br />
-  Recently read - <i>If it's Smart, it's Vulnerable</i> by Mikko Hypponen.
+  Currently reading - <i>Pro Git</i> by Scott Chacon and Ben Straub (for a light summer read ☀️).<br />
+  Recently read - <i>If it's Smart, it's Vulnerable</i> by Mikko Hypponen and <i>Chip War</i> by Chris Miller
 </details>
 
 <details>
