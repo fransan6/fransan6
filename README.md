@@ -9,10 +9,10 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 
 ---
 
-### :hammer_and_wrench: Skills
+### 🪄 Skills
 ![Skills icons](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,git)
 
-### :woman_teacher:	Learning
+### 🦉	Learning
 ![Skills icons](https://skillicons.dev/icons?i=react,nodejs)
 
 Primary focus is on **React** with a little time to explore the fundamentals of **Node.js**. Polishing my JavaScript skills within these.
@@ -21,9 +21,10 @@ Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro
 
 ---
 
-### :fire: Projects
+### ✨ Pinned projects
 - [What Can I Eat?](https://github.com/alexagodzilla/what-can-i-eat) Final Le Wagon group project. Rails web app to supply recipes based on a user's ingredients. Set up MVC and schema; built and aided with filtering, review and bookmark functionalities; created friendships, where users could send invites, and accept or reject others' requests. [(Insights -> Contributions)](https://github.com/alexagodzilla/what-can-i-eat/graphs/contributors)
 - [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First Le Wagon Rails group project, setting up amateur musicians with venues. Worked on setup of MVC design pattern and schema, and helped integration of Mapbox and Google APIs. [(Insights -> Contributions)](https://github.com/alexagodzilla/venues-pay-and-play/graphs/contributors)
+- There is also a React project that consolidated the basics and I will soon be working on another that uses intermediate concepts. In addition, I am tinkering with a Ruby CLI project, which will fetch from an API and incorporate CRUD.
 
 ---
 
