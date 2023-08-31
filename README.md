@@ -13,18 +13,16 @@ I'm a recent full-stack development graduate and apparently am now obsessed with
 ![Skills icons](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,git)
 
 ### 🦉	Learning
-![Skills icons](https://skillicons.dev/icons?i=react,nodejs)
+![Skills icons](https://skillicons.dev/icons?i=react)
 
-Primary focus is on **React** with a little time to explore the fundamentals of **Node.js**. Honing my JavaScript skills within these.
-
-Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro" />
+Ruby on Codewars: ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
 ### ✨ Pinned projects
 - [What Can I Eat?](https://github.com/alexagodzilla/what-can-i-eat) Final group project: dynamic Rails web app to supply recipes based on a user's ingredients. Set up MVC architecture and schema; built and aided with filtering, review and bookmark functionalities; created friendships for user connections and invitations; implemented AJAX to enhance user interaction and integrated JSON data. [(Insights -> Contributions)](https://github.com/alexagodzilla/what-can-i-eat/graphs/contributors)
 - [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First group project: Rails web app that sets up amateur musicians with venues. Contributed to the setup of MVC architecture and schema, and helped integration of Mapbox and Google Maps APIs, providing location-based functionality. [(Insights -> Contributions)](https://github.com/alexagodzilla/venues-pay-and-play/graphs/contributors)
-- There is also a React app that consolidated the basics and I will soon be working on another that uses more advanced concepts. In addition, I am tinkering with a Ruby CLI project that will use JSON data from an API and incorporate CRUD within a polished user interface.
+- There is also a React project that consolidated the basics, using `useState` and `useEffect`, and fetched JSON data from an API. Currently, I am tinkering with a Ruby CLI app.
 
 ---
 
@@ -42,9 +40,11 @@ Ruby on Codewars: <img src="https://www.codewars.com/users/fran6san/badges/micro
   <sub><sup>Translated by David G. Lanoue</sup></sub>
 </details>
 
-
 <!-- 
 # COMMENTS
+
+## LEARNING
+Primary focus is on **React** with a little time to explore the fundamentals of **Node.js**. Honing my JavaScript skills within these.
 
 ## TECH READING
 <details>
