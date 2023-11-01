@@ -1,4 +1,4 @@
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fsandford/)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6/)
 [![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:fransan6@proton.me)
 
 ### Hi 👋
