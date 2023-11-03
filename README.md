@@ -1,8 +1,7 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6/)
 [![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:fransan6@proton.me)
 
-### Hi 👋
-I'm a recent full-stack development graduate and am now ~healthily~ obsessed with all things programming. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
+Hi! I'm a full-stack development graduate and am ~healthily~ obsessed with all things programming. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
 <img src="rosa-computer.gif" style="height: 10rem" alt="Gif of woman hitting a computer monitor" />
 <!-- not markdown so as to set height -->
@@ -10,7 +9,7 @@ I'm a recent full-stack development graduate and am now ~healthily~ obsessed wit
 ---
 
 ### 🪄 Skills
-![Icons for Rails, Ruby, JavaScript, PostgreSQL, HTML, CSS, Sass and Git](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,git)
+![Graphic icons for Rails, Ruby, JavaScript, PostgreSQL, HTML, CSS, Sass and Git](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,git)
 
 ### 🦉	Learning
 ![Icon for React](https://skillicons.dev/icons?i=react)
