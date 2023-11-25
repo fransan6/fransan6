@@ -1,5 +1,5 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-65AEC9?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6/)
-[![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:fransan6@proton.me)
+[![Email address badge](https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
 
 Hi! I'm a full-stack development graduate and am ~healthily~ obsessed with all things programming. I bring both strong technical and soft skills and, when necessary, plenty of snacks.
 
