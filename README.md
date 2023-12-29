@@ -1,7 +1,7 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6/)
 [![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
 
-Hi! I'm a Full Stack Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and solve problems, all with clean code and a flexible approach. I also come with snacks.
+Hi! I'm a Software Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and solve problems, all with clean code and a flexible approach. I also come with snacks.
 
 <img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" />
 <!-- not markdown so as to set height -->
