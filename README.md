@@ -1,4 +1,4 @@
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6/)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6)
 [![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
 
 Hi! I'm a Software Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and solve problems, all with clean code and a flexible approach. I also come with snacks.
@@ -15,7 +15,7 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 <!-- ![Icon for React](https://skillicons.dev/icons?i=react) -->
 <img height="40" src="https://skillicons.dev/icons?i=react" />
 
-Using **Ruby** <img src="https://cdn.simpleicons.org/ruby" width=16 /> for [Advent of Code 2023](https://adventofcode.com/2023) and on Codewars: ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
+Using **Ruby** <img src="https://cdn.simpleicons.org/ruby" width=16 /> for [Advent of Code](https://adventofcode.com) and on Codewars ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
