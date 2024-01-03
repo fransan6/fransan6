@@ -15,7 +15,7 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 <!-- ![Icon for React](https://skillicons.dev/icons?i=react) -->
 <img height="40" src="https://skillicons.dev/icons?i=react" />
 
-Using **Ruby** <img src="https://cdn.simpleicons.org/ruby" width=16 /> for [Advent of Code](https://adventofcode.com) and on Codewars ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
+Using **Ruby** <img src="https://cdn.simpleicons.org/ruby" width=16 /> for [Advent of Code](https://adventofcode.com) and Codewars ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
