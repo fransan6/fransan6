@@ -1,21 +1,20 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6)
 [![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
 
-Hi! I'm a Software Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and solve problems, all with clean code and a flexible approach. I also come with snacks.
+Hi! I'm a Software Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
 
 <img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" />
-<!-- not markdown so as to set height -->
 
 ---
 
 ### 🪄 Skills
-<img height="40" src="https://skillicons.dev/icons?i=rails" /> <img height="40" src="https://skillicons.dev/icons?i=ruby" /> <img height="40" src="https://skillicons.dev/icons?i=js" /> <img height="40" src="https://skillicons.dev/icons?i=postgresql" /> <img height="40" src="https://skillicons.dev/icons?i=html" /> <img height="40" src="https://skillicons.dev/icons?i=css" /> <img height="40" src="https://skillicons.dev/icons?i=sass" /> <img height="40" src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=rails" height=40 alt="Graphic icon of Rails" /> <img src="https://skillicons.dev/icons?i=ruby" height=40 alt="Graphic icon of Ruby" /> <img src="https://skillicons.dev/icons?i=js" height=40 alt="Graphic icon of JavaScript" /> <img src="https://skillicons.dev/icons?i=postgresql" height=40 alt="Graphic icon of PostgreSQL" /> <img src="https://skillicons.dev/icons?i=html" height=40 alt="Graphic icon of HTML" /> <img src="https://skillicons.dev/icons?i=css" height=40 alt="Graphic icon of CSS" /> <img src="https://skillicons.dev/icons?i=sass" height=40 alt="Graphic icon of Sass" /> <img src="https://skillicons.dev/icons?i=git" height=40 alt="Graphic icon of Git" />
 
 ### ✨ Learning
-<!-- ![Icon for React](https://skillicons.dev/icons?i=react) -->
-<img height="40" src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react" height=40 alt="Graphic icon of React" />
 
-Using **Ruby** <img src="https://cdn.simpleicons.org/ruby" width=16 /> for [Advent of Code](https://adventofcode.com) and Codewars ![Codewars badge displaying user level](https://www.codewars.com/users/fran6san/badges/micro)
+- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width=19 alt="Graphic icon of RSpec" />
+- Using Ruby <img src="https://cdn.simpleicons.org/ruby" width=16 alt="Graphic icon of Ruby" /> for contributing to **open source** projects🌈, [Advent of Code](https://adventofcode.com) and [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
