@@ -7,7 +7,7 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 
 ---
 
-### 🪄 Skills
+### 🐉 Skills
 <img src="https://skillicons.dev/icons?i=rails" height=40 alt="Graphic icon of Rails" /> <img src="https://skillicons.dev/icons?i=ruby" height=40 alt="Graphic icon of Ruby" /> <img src="https://skillicons.dev/icons?i=js" height=40 alt="Graphic icon of JavaScript" /> <img src="https://skillicons.dev/icons?i=postgresql" height=40 alt="Graphic icon of PostgreSQL" /> <img src="https://skillicons.dev/icons?i=html" height=40 alt="Graphic icon of HTML" /> <img src="https://skillicons.dev/icons?i=css" height=40 alt="Graphic icon of CSS" /> <img src="https://skillicons.dev/icons?i=sass" height=40 alt="Graphic icon of Sass" /> <img src="https://skillicons.dev/icons?i=git" height=40 alt="Graphic icon of Git" />
 
 ### ✨ Learning
