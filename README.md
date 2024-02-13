@@ -8,12 +8,12 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 ---
 
 ### 🐉 Skills
-<img src="https://skillicons.dev/icons?i=rails" height=40 alt="Graphic icon of Rails" /> <img src="https://skillicons.dev/icons?i=ruby" height=40 alt="Graphic icon of Ruby" /> <img src="https://skillicons.dev/icons?i=js" height=40 alt="Graphic icon of JavaScript" /> <img src="https://skillicons.dev/icons?i=postgresql" height=40 alt="Graphic icon of PostgreSQL" /> <img src="https://skillicons.dev/icons?i=html" height=40 alt="Graphic icon of HTML" /> <img src="https://skillicons.dev/icons?i=css" height=40 alt="Graphic icon of CSS" /> <img src="https://skillicons.dev/icons?i=sass" height=40 alt="Graphic icon of Sass" /> <img src="https://skillicons.dev/icons?i=git" height=40 alt="Graphic icon of Git" />
+<img src="https://skillicons.dev/icons?i=rails" height=40 title="Rails" alt="Graphic icon of Rails" /> <img src="https://skillicons.dev/icons?i=ruby" height=40 title="Ruby" alt="Graphic icon of Ruby" /> <img src="https://skillicons.dev/icons?i=js" height=40 title="JavaScript" alt="Graphic icon of JavaScript" /> <img src="https://skillicons.dev/icons?i=postgresql" height=40 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> <img src="https://skillicons.dev/icons?i=html" height=40 title="HTML" alt="Graphic icon of HTML" /> <img src="https://skillicons.dev/icons?i=css" height=40 title="CSS" alt="Graphic icon of CSS" /> <img src="https://skillicons.dev/icons?i=sass" height=40 title="Sass" alt="Graphic icon of Sass" /> <img src="https://skillicons.dev/icons?i=git" height=40 title="Git" alt="Graphic icon of Git" />
 
 ### ✨ Learning
-<img src="https://skillicons.dev/icons?i=react" height=40 alt="Graphic icon of React" />
+<img src="https://skillicons.dev/icons?i=react" height=40 title="React" alt="Graphic icon of React" />
 
-- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" width=19 alt="Graphic icon of RSpec" />
+- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height=20 alt="Graphic icon of RSpec" />
 - Using Ruby <img src="https://cdn.simpleicons.org/ruby" width=16 alt="Graphic icon of Ruby" /> for contributing to **open source** projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
