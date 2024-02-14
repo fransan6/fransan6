@@ -13,8 +13,8 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 ### ✨ Learning
 <img src="https://skillicons.dev/icons?i=react" height=40 title="React" alt="Graphic icon of React" />
 
-- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height=20 alt="Graphic icon of RSpec" />
-- Using Ruby <img src="https://cdn.simpleicons.org/ruby" width=16 alt="Graphic icon of Ruby" /> for contributing to **open source** projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
+- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height=20 title="RSpec" alt="Graphic icon of RSpec" />
+- Using Ruby <img src="https://cdn.simpleicons.org/ruby" width=16 title="Ruby" alt="Graphic icon of Ruby" /> for contributing to **open source** projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
