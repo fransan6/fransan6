@@ -9,14 +9,15 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 
 ### 🐉 Skills
 
-<img src="https://skillicons.dev/icons?i=ruby" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` 
-<img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
+<img src="https://skillicons.dev/icons?i=ruby" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
+
+<img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` <img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass`
 
 ### ✨ Learning
 
 - <img src="https://skillicons.dev/icons?i=react" height=23 title="React" alt="Graphic icon of React" /> `React`
 - Testing with `RSpec`
-- Using `Ruby` for contributing to open source projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
+- Contributing to open source projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
