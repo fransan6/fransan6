@@ -8,13 +8,15 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 ---
 
 ### 🐉 Skills
-<img src="https://skillicons.dev/icons?i=rails" height=40 title="Rails" alt="Graphic icon of Rails" /> <img src="https://skillicons.dev/icons?i=ruby" height=40 title="Ruby" alt="Graphic icon of Ruby" /> <img src="https://skillicons.dev/icons?i=js" height=40 title="JavaScript" alt="Graphic icon of JavaScript" /> <img src="https://skillicons.dev/icons?i=postgresql" height=40 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> <img src="https://skillicons.dev/icons?i=html" height=40 title="HTML" alt="Graphic icon of HTML" /> <img src="https://skillicons.dev/icons?i=css" height=40 title="CSS" alt="Graphic icon of CSS" /> <img src="https://skillicons.dev/icons?i=sass" height=40 title="Sass" alt="Graphic icon of Sass" /> <img src="https://skillicons.dev/icons?i=git" height=40 title="Git" alt="Graphic icon of Git" />
+
+<img src="https://skillicons.dev/icons?i=ruby" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` 
+<img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
 
 ### ✨ Learning
-<img src="https://skillicons.dev/icons?i=react" height=40 title="React" alt="Graphic icon of React" />
 
-- **Testing** with RSpec <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height=20 title="RSpec" alt="Graphic icon of RSpec" />
-- Using Ruby <img src="https://cdn.simpleicons.org/ruby" width=16 title="Ruby" alt="Graphic icon of Ruby" /> for contributing to **open source** projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
+- <img src="https://skillicons.dev/icons?i=react" height=23 title="React" alt="Graphic icon of React" /> `React`
+- Testing with `RSpec`
+- Using `Ruby` for contributing to open source projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
@@ -65,6 +67,8 @@ Primary focus is on **React** with a little time to explore the fundamentals of 
 <img src="https://cdn.simpleicons.org/rubyonrails" width=42 /> <img src="https://cdn.simpleicons.org/ruby" width=42 /> <img src="https://cdn.simpleicons.org/javascript" width=42 /> <img src="https://cdn.simpleicons.org/postgresql" width=42 /> <img src="https://cdn.simpleicons.org/html5" width=42 /> <img src="https://cdn.simpleicons.org/css3" width=42 /> <img src="https://cdn.simpleicons.org/sass" width=42 /> <img src="https://cdn.simpleicons.org/git" width=42 />
 
 ![Graphic icons for Rails, Ruby, JavaScript, PostgreSQL, HTML, CSS, Sass and Git](https://skillicons.dev/icons?i=rails,ruby,js,postgresql,html,css,sass,git)
+
+<img src="https://cdn.simpleicons.org/ruby" width=16 title="Ruby" alt="Graphic icon of Ruby" />
 
 ## PREVIOUS BADGES
 <a href="https://www.linkedin.com/in/fsandford/">
