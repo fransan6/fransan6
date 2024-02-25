@@ -1,11 +1,9 @@
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6)
 [![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
 
-Hi! I'm a Software Developer and am ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
+Software developer ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
 
-<img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" />
-
----
+<img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" /> <sub><sup>Absolutely not me 🐛</sup></sub>
 
 ### 🐉 Skills
 
@@ -15,9 +13,10 @@ Hi! I'm a Software Developer and am ~healthily~ obsessed with all things program
 
 ### ✨ Focus
 
+- Long-term: building a Rails ecommerce marketplace site with [@alexagodzilla](https://github.com/alexagodzilla)
 - Testing with `RSpec`
 - Navigating Linux (Ubuntu)
-- Contributing to open source projects🌈 and challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
+- Contributing to open source projects 🌈 and solving challenges, such as [Codewars](https://www.codewars.com) ![Codewars badge displaying user rank and honour](https://www.codewars.com/users/fran6san/badges/micro)
 
 ---
 
