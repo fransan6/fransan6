@@ -3,11 +3,11 @@
 
 Software developer ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
 
-<img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" /> <sub><sup>Absolutely not me 🐛</sup></sub>
+
 
 ### 🐉 Skills
 
-<img src="https://skillicons.dev/icons?i=ruby" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
+<img src="ruby-icon.svg" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
 
 <img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` <img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass`
 
@@ -36,6 +36,9 @@ Software developer ~healthily~ obsessed with all things programming. Continually
 
 <!-- 
 # COMMENTS
+
+## GIF
+<img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" />
 
 ## TECH READING
 <details>
@@ -74,9 +77,4 @@ Software developer ~healthily~ obsessed with all things programming. Continually
 <a href="mailto:fransan6@proton.me">
   <img src="https://img.shields.io/badge/Email-D383BE?logo=protonmail&logoColor=white&style=for-the-badge" alt="Email address badge" />
 </a>
-
-### ✨ Pinned projects
-- [What Can I Eat?](https://github.com/alexagodzilla/what-can-i-eat) Final group project: dynamic Rails web app to supply recipes based on a user's ingredients. Set up MVC architecture and schema; built and aided with filtering, review and bookmark functionalities; created friendships for user connections and invitations; implemented AJAX to enhance user interaction and integrated JSON data. [(Insights -> Contributions)](https://github.com/alexagodzilla/what-can-i-eat/graphs/contributors)
-- [Pay and Play](https://github.com/alexagodzilla/venues-pay-and-play) First group project: Rails web app that sets up amateur musicians with venues. Contributed to the setup of MVC architecture and schema, and helped integration of Mapbox and Google Maps APIs, providing location-based functionality. [(Insights -> Contributions)](https://github.com/alexagodzilla/venues-pay-and-play/graphs/contributors)
-- There is also a React project that consolidated the basics, using `useState` and `useEffect`, and fetched JSON data from an API. Currently, I am tinkering with a Ruby CLI app.
 -->
