@@ -5,9 +5,9 @@ Junior software engineer ~healthily~ obsessed with all things programming. Conti
 
 ### 🐉 Skills
 
-<img src="ruby-icon.svg" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git`
+<img src="ruby-icon.svg" height=23 title="Ruby" alt="Graphic icon of Ruby" /> `Ruby` <img src="https://skillicons.dev/icons?i=rails" height=23 title="Rails" alt="Graphic icon of Rails" /> `Rails` <img src="https://skillicons.dev/icons?i=postgresql" height=23 title="PostgreSQL" alt="Graphic icon of PostgreSQL" /> `PostgreSQL` <img src="https://skillicons.dev/icons?i=sqlite" height=23 title="SQLite" alt="Graphic icon of SQLite" /> `SQLite`
 
-<img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` <img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass`
+<img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` <img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass` <img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git` 
 
 ### ✨ Focus
 
