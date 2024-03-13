@@ -1,6 +1,3 @@
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6)
-[![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:francesca.sandford@proton.me)
-
 Junior software engineer ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
 
 ### 🐉 Skills
@@ -36,6 +33,10 @@ Junior software engineer ~healthily~ obsessed with all things programming. Conti
 
 ## GIF
 <img src="rosa-computer.gif" height=140 alt="Gif of woman hitting a computer monitor" />
+
+## CONTACT BADGES
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fransan6)
+[![Email address badge](https://img.shields.io/badge/Email-8666FF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:X)
 
 ## TECH READING
 <details>
