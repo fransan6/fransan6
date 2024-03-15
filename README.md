@@ -1,4 +1,4 @@
-Junior software engineer ~healthily~ obsessed with all things programming. Continually expanding my knowledge, I like to build robust software, create vibrant web apps and figure out problems, all with clean code and a flexible mindset.
+Junior software engineer ~healthily~ obsessed with programming and continually expanding my knowledge. I like to build robust software, create vibrant web applications and craft solutions to problems, all with clean code, a flexible approach and always keeping the user in mind.
 
 ### 🐉 Skills
 
@@ -10,7 +10,7 @@ Junior software engineer ~healthily~ obsessed with all things programming. Conti
 
 - PostgreSQL and relational databases
 - Navigating Linux (Ubuntu)
-- Long-term: building a Rails ecommerce marketplace with [@alexagodzilla](https://github.com/alexagodzilla)
+- Long-term: building a Rails comic book marketplace with [@alexagodzilla](https://github.com/alexagodzilla)
 
 ---
 
