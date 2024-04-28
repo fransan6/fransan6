@@ -6,12 +6,7 @@ Junior software engineer ~healthily~ obsessed with programming and continually e
 
 <img src="https://skillicons.dev/icons?i=js" height=23 title="JavaScript" alt="Graphic icon of JavaScript" /> `JavaScript` <img src="https://skillicons.dev/icons?i=html" height=23 title="HTML" alt="Graphic icon of HTML" /> `HTML` <img src="https://skillicons.dev/icons?i=css" height=23 title="CSS" alt="Graphic icon of CSS" /> `CSS` <img src="https://skillicons.dev/icons?i=sass" height=23 title="Sass" alt="Graphic icon of Sass" /> `Sass` 
 
-<img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git` <img src="https://skillicons.dev/icons?i=linux" height=23 title="Linux" alt="Graphic icon of Linux" /> `Linux` 
-
-### ✨ Focus
-
-- Deepening knowledge of PostgreSQL and relational databases
-- Long-term: building a Rails comic book marketplace with [@alexagodzilla](https://github.com/alexagodzilla)
+<img src="https://skillicons.dev/icons?i=git" height=23 title="Git" alt="Graphic icon of Git" /> `Git` <img src="https://skillicons.dev/icons?i=linux" height=23 title="Linux" alt="Graphic icon of Linux" /> `Linux`
 
 ---
 
