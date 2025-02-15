@@ -10,7 +10,7 @@ I like to build robust software, create vibrant web applications and craft solut
 
 <details>
   <summary>
-    :leaves: <b>Haiku</b>
+    :leaves: 俳句
   </summary><br />
   around the willow<br />
   a floating world<br />
